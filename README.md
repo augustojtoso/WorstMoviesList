@@ -26,14 +26,14 @@ To access the analysis, use the following endpoint (either using a browser or po
 http://localhost:8080/awardsInterval
 ```
 
-###Changing the data
+### Changing the data
 
 The H2 database is populated using a csv file located on:
 \src\main\resources\db\migration\movielist.csv
 
 To use a diferent data, simply replace the csv with the desired data. Keeping the same column structure and file name.
 
-###Integration testing
+### Integration testing
 
 Running mvn install will automatically run the tests, 
 
