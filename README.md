@@ -1,6 +1,10 @@
 # Worst Producers API
 RESTful API for reading and analysing the Golden Raspberry Awards based on the producers.
 
+## Project
+
+Project specification can be foud on the pd file: Especificação Backend.pdf
+
 ## Installation
 
 Download the project form the repository.
